@@ -74,11 +74,13 @@ header.masthead .masthead-content .masthead-subheading {
 header.masthead .masthead-content .masthead-logo {
   height: 400px;
   width: 400px;
+  -webkit-user-drag: none;
 }
 
 header.masthead .masthead-content .masthead-social {
   height: 150px;
   width: 150px;
+	-webkit-user-drag: none;
 }
 
 .divided {
